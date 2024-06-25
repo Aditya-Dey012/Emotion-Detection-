@@ -14,6 +14,8 @@ The Emotion Detection system demonstrated high accuracy in recognizing 7 differe
 
 This project not only showcased the power of deep learning in emotion recognition but also highlighted the practical application of computer vision techniques for real-world scenarios, such as human-computer interaction.
 
+Screenshots :
+
 Contributing If you have suggestions or would like to contribute to the project, please feel free to fork the repository and create a pull request. We welcome all contributions that can improve the project and enhance the user experience.
 
 License This project is licensed under the MIT License - see the LICENSE file for details.
