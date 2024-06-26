@@ -14,7 +14,7 @@ The Emotion Detection system demonstrated high accuracy in recognizing 7 differe
 
 This project not only showcased the power of deep learning in emotion recognition but also highlighted the practical application of computer vision techniques for real-world scenarios, such as human-computer interaction.
 
-Screenshots :
+##### Google Drive Video Link : https://drive.google.com/file/d/1bxf4HwKZccFNzjckfFv_foI_m0eKpg1X/view?usp=sharing
 
 Contributing If you have suggestions or would like to contribute to the project, please feel free to fork the repository and create a pull request. We welcome all contributions that can improve the project and enhance the user experience.
 
